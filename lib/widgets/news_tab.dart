@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'package:gdsc_flutter_task1/widgets/simple_widgets.dart';
+//nice
 
 class NewsTab extends StatelessWidget {
   final String imagePath;
